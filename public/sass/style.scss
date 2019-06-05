@@ -1,5 +1,5 @@
 $font-primary: 'Quicksand', Arial, sans-serif;
-$font-secondary: 'Playfair Display', Georgia, serif;
+$font-secondary: Verdana;
 
 // Overrides
 $grid-gutter-width: 40px !default; 
@@ -239,7 +239,7 @@ figure {
 				margin: 0 0 10px 0;
 				padding: 0;
 				list-style: none;
-				font-size: 12px;
+				font-size: 18px;
 				font-weight: 500;
 				text-transform: uppercase;
 				letter-spacing: 1px;
