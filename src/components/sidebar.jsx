@@ -36,7 +36,7 @@ export default class Sidebar extends Component {
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
             <div className="colorlib-footer">
               <p><small>
-              Copyright 2019
+              &copy;Copyright 2019
               </small></p>
             </div>
           </aside>
