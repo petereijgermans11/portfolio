@@ -5,6 +5,11 @@ export default class About extends Component {
     return (
       <div>
         <section className="colorlib-about" data-section="about">
+
+        <div className="text-center">
+        <img src='images/peter.jpeg' width="280px" class="lazy card-img-top" alt="petereijgermans"/>
+            </div>
+
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-12">
