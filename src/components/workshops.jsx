@@ -15,7 +15,7 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <img src='images/angularreactiveforms.png' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <img src='images/angularreactiveforms.png' width="280px" class="lazy card-img-top" alt="angularreactiveforms"/>
                     <div className="desc">
                         <h3>Angular Reactive Forms (May 2019)</h3>
                         <p>I gave a workshop about 'Reactive Forms in Angular'. It is part of an accelerator program of Ordina to boost your Frontend expertise to the Next Level!
