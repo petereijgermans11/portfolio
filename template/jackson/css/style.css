@@ -1185,18 +1185,18 @@ body.offcanvas {
     outline: none !important; }
 
 .btn-primary {
-  background: #f0ed2c ;
+  background: #D8CA1B ;
   color: #fff;
-  border: 2px solid #f0ed2c; }
+  border: 2px solid #D8CA1B; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #f0ed2c !important;
-    border-color: #f0ed2c !important; }
+    background: #D8CA1B !important;
+    border-color: #D8CA1B !important; }
   .btn-primary.btn-outline {
     background: transparent;
-    color: #f0ed2c;
-    border: 2px solid #f0ed2c; }
+    color: #D8CA1B;
+    border: 2px solid #D8CA1B; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #f0ed2c;
+      background: #D8CA1B;
       color: #fff; }
 
 .btn-success {

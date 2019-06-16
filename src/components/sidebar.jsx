@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/rhino.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Peter Eijgermans</a></h1>
-              <span className="email"><i className="icon-mail"></i>peter.eijgermans@ordina.nl</span>
+              
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -35,6 +35,9 @@ export default class Sidebar extends Component {
             </nav>
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
             <div className="colorlib-footer">
+              <div className="text-center">
+                <span className="email"><i className="icon-mail"></i>peter.eijgermans@ordina.nl</span>
+              </div>
               <p><small>
               &copy;Copyright 2019
               </small></p>
