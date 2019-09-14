@@ -14,18 +14,6 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
-                    <div className="desc">
-                        <h3>"Monolith or Microservices: That Is The Question" (IndyPy - Python Web Conf, August 2019)</h3>
-                        <p>In 1997 Peter Eijgermans was attacked by a rhinoceros in Nepal / Tibet. In this context, the rhinoceros represents a Monolith. Peter used this metaphor to start his talk about Monolith or Microservices. He also focusses on Micro Frontends and speeding up development.
-                        </p>
-                        <a href="https://www.youtube.com/watch?v=EkEADLsJmcM&list=PLt4L3V8wVnF5ph1PP6h7qFfH6DI8xWlpJ&index=22&t=0s" target="_blank" class="btn btn-primary">Check It Out</a>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/vkgDlh4kZfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -45,6 +33,18 @@ export default class About extends Component {
                         <p>In this session you’ll learn what NativeScript is, how it works, and how to use the framework to build iOS and Android apps. Peter also answer the question when to choose for PWA’s or JavaScript-driven native app frameworks like NativeScript
                         </p>
                         <a href="https://www.youtube.com/watch?v=GIWKX9J7HXA" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>"Monolith or Microservices: That Is The Question" (IndyPy - Python Web Conf, August 2019)</h3>
+                        <p>In 1997 Peter Eijgermans was attacked by a rhinoceros in Nepal / Tibet. In this context, the rhinoceros represents a Monolith. Peter used this metaphor to start his talk about Monolith or Microservices. He also focusses on Micro Frontends and speeding up development.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=EkEADLsJmcM&list=PLt4L3V8wVnF5ph1PP6h7qFfH6DI8xWlpJ&index=22&t=0s" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
             </div>
