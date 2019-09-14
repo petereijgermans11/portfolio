@@ -14,22 +14,23 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
+                    <img src='images/red-tesla.jpg' width="280px" class="lazy card-img-top" alt="Vue.js Tutorial: Build a Tesla Battery Range Calculator"/>
+                    <div className="desc">
+                        <h3>Vue.js Tutorial: Build a Tesla Battery Range Calculator</h3>
+                        <p>In this tutorial, we get started with Vue.js, an easy-to-understand JavaScript framework.
+                        </p>
+                        <a href="https://dzone.com/articles/build-a-tesla-battery-range-calculator-yourself-it" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
                     <img src='images/nativescriptvue.jpeg' width="280px" class="lazy card-img-top" alt="Building Mobile Apps With Angular or Vue.js and NativeScript"/>
                     <div className="desc">
                         <h3>Building Mobile Apps With Angular or Vue.js and NativeScript</h3>
                         <p>In this article, we go over to quickly make mobile applications using NativeScript plus Angular and NativeScript plus Vue.js.
                         </p>
                         <a href="https://dzone.com/articles/building-mobile-apps-with-angular-and-nativescript" target="_blank" class="btn btn-primary">Check It Out</a>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                    <img src='images/nativescriptangular.jpg' width="280px" class="lazy card-img-top" alt="Angular and NativeScript"/>
-                    <div className="desc">
-                        <h3>Angular and NativeScript</h3>
-                        <p>In this article, we go over to quickly make mobile applications using NativeScript plus Angular.</p>
-                        <a href="https://www.slideshare.net/slideshow/embed_code/key/urM9U3FWoUWYSN" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
             </div>
