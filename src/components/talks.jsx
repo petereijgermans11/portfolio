@@ -21,7 +21,7 @@ export default class About extends Component {
                         <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.</p>
                     </div>
                 </div>
-
+            </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                     <img src='images/pwa.png' width="280px" class="lazy card-img-top" alt="Progressive Web Applications: The What, the Why and the How"/>
