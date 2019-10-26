@@ -12,6 +12,51 @@ export default class About extends Component {
             </div>
             </div>
             <div className="row row-pt-md">
+
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                    <img src='images/talk_micro-frontends.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
+                    <div className="desc">
+                        <h3>Micro-frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
+                        <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.</p>
+                    </div>
+                </div>
+
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <img src='images/pwa.png' width="280px" class="lazy card-img-top" alt="Progressive Web Applications: The What, the Why and the How"/>
+
+                    <div className="desc">
+                        <h3>Progressive Web Applications: The What, the Why and the How (GDG Heraclion, Sept 2019)</h3>
+                        <p>Progressive web apps are websites that look and feel like an app. This means users can access all information and capabilities without downloading a mobile app.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <img src='images/firebase_vue.png' width="280px" class="lazy card-img-top" alt="Building apps with NativeScript, Vue en Firebase"/>
+
+                    <div className="desc">
+                        <h3>Building apps with NativeScript, Vue en Firebase (GDG Heraclion, Sept 2019)</h3>
+                        <p>For GDG Heraclion I give a talk about building a 'Music Streaming App' app with NativeScript and Vue. For the backend I used Firebase.
+                        </p>
+                        <a href="https://github.com/petereijgermans11/workshop-nativescript-firebase" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>"Monolith or Microservices: That Is The Question" (IndyPy - Python Web Conf, August 2019)</h3>
+                        <p>In 1997 Peter Eijgermans was attacked by a rhinoceros in Nepal / Tibet. In this context, the rhinoceros represents a Monolith. Peter used this metaphor to start his talk about Monolith or Microservices. He also focusses on Micro Frontends and speeding up development.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=EkEADLsJmcM&list=PLt4L3V8wVnF5ph1PP6h7qFfH6DI8xWlpJ&index=22&t=0s" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/vkgDlh4kZfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
@@ -37,20 +82,8 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                    <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
-                    <div className="desc">
-                        <h3>"Monolith or Microservices: That Is The Question" (IndyPy - Python Web Conf, August 2019)</h3>
-                        <p>In 1997 Peter Eijgermans was attacked by a rhinoceros in Nepal / Tibet. In this context, the rhinoceros represents a Monolith. Peter used this metaphor to start his talk about Monolith or Microservices. He also focusses on Micro Frontends and speeding up development.
-                        </p>
-                        <a href="https://www.youtube.com/watch?v=EkEADLsJmcM&list=PLt4L3V8wVnF5ph1PP6h7qFfH6DI8xWlpJ&index=22&t=0s" target="_blank" class="btn btn-primary">Check It Out</a>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
-                    <img src='images/microservicesormonolith.jpg' width="280px" class="lazy card-img-top" alt="building apps with NativeScript en Firebase"/>
+                    <img src='images/microservicesormonolith.jpg' width="280px" class="lazy card-img-top" alt="Microservices or Monolith"/>
                     <div className="desc">
                         <h3>Microservices or Monolith (April 2019)</h3>
                         <p>In 1997 i was attacked by a rhinoceros in Nepal / Tibet (hence that Tibetan cap) . In this context, the rhinoceros represents a Monolith. I used this metaphore to start my talk about Monolith or Microservices.</p>
