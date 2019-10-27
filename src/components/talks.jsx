@@ -18,7 +18,10 @@ export default class About extends Component {
                     <img src='images/talk_micro-frontends.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
                     <div className="desc">
                         <h3>Micro frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
-                        <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.</p>
+                        <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.
+                        I start this story with my adventure with a rhino in Nepal. That is a monolith that you must first defeat before continuing with Micro Frontends!
+                        </p>
+                        <a href="https://www.slideshare.net/secret/44kcAPk607XegA" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
             </div>
