@@ -13,7 +13,7 @@ export default class About extends Component {
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-3">
                     <img src='images/red-tesla.jpg' width="280px" class="lazy card-img-top" alt="Vue.js Tutorial: Build a Tesla Battery Range Calculator"/>
                     <div className="desc">
                         <h3>Vue.js Tutorial: Build a Tesla Battery Range Calculator</h3>
@@ -35,7 +35,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-3">
                     <img src='images/microservices.jpeg' width="280px" class="lazy card-img-top" alt="Microservices? Yes, but No Spaghetti, Please!"/>
                     <div className="desc">
                         <h3>Microservices? Yes, but No Spaghetti, Please!</h3>
@@ -45,7 +45,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-1">
                     <img src='images/yeoman.png' width="280px" class="lazy card-img-top" alt="Create Your Own Yeoman Generator"/>
                     <div className="desc">
                         <h3>Create Your Own Yeoman Generator</h3>

@@ -14,7 +14,7 @@ export default class About extends Component {
             <div className="row row-pt-md">
 
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-1">
                     <img src='images/talk_micro-frontends.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
                     <div className="desc">
                         <h3>Micro frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
@@ -46,7 +46,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -70,7 +70,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/GIWKX9J7HXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -82,7 +82,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-3">
                     <img src='images/microservicesormonolith.jpg' width="270px" class="lazy card-img-top" alt="Microservices or Monolith"/>
                     <div className="desc">
                         <h3>Microservices or Monolith (April 2019)</h3>
@@ -104,7 +104,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/4RILEdh3PUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
                     <div className="desc">
                         <h3>Building apps with NativeScript (Code & Comedy, September 2017)</h3>
