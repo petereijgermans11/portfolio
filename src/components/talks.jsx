@@ -17,13 +17,13 @@ export default class About extends Component {
                 <div className="services color-5">
                     <img src='images/talk_micro-frontends.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
                     <div className="desc">
-                        <h3>Micro-frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
+                        <h3>Micro frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
                         <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.</p>
                     </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-3">
                     <img src='images/pwa.png' width="280px" class="lazy card-img-top" alt="Progressive Web Applications: The What, the Why and the How"/>
 
                     <div className="desc">
@@ -46,7 +46,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-5">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/EkEADLsJmcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -70,7 +70,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-3">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/GIWKX9J7HXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -83,7 +83,7 @@ export default class About extends Component {
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
-                    <img src='images/microservicesormonolith.jpg' width="280px" class="lazy card-img-top" alt="Microservices or Monolith"/>
+                    <img src='images/microservicesormonolith.jpg' width="270px" class="lazy card-img-top" alt="Microservices or Monolith"/>
                     <div className="desc">
                         <h3>Microservices or Monolith (April 2019)</h3>
                         <p>In 1997 i was attacked by a rhinoceros in Nepal / Tibet (hence that Tibetan cap) . In this context, the rhinoceros represents a Monolith. I used this metaphore to start my talk about Monolith or Microservices.</p>
