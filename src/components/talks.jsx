@@ -15,7 +15,7 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <img src='images/talk_micro-frontends.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
+                    <img src='images/rhino_monolith.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
                     <div className="desc">
                         <h3>Micro frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
                         <p>In this interactive session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends.
