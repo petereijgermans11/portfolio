@@ -48,7 +48,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>And I am a traveler and a <br/>international spreaker ... </h1>
-                          <p><a className="btn btn-primary" href="https://dzone.com/articles/building-mobile-apps-with-angular-and-nativescript" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary" href="https://dzone.com/users/1490465/petereijgermans.html" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
                         </div>
                       </div>
                     </div>
