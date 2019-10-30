@@ -33,6 +33,8 @@ export default class About extends Component {
                         <h3>Progressive Web Applications: The What, the Why and the How (GDG Heraclion, Sept 2019)</h3>
                         <p>Progressive web apps are websites that look and feel like an app. This means users can access all information and capabilities without downloading a mobile app.
                         </p>
+                        <a href="https://www.slideshare.net/secret/IKGzzgMMEsSdH8" target="_blank" class="btn btn-primary">Check It Out</a>
+
                     </div>
                 </div>
             </div>
