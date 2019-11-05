@@ -43,8 +43,8 @@ export default class About extends Component {
                     <img src='images/angular7.png' width="280px" class="lazy card-img-top" alt="angular7"/>
                     <div className="desc">
                         <h3>Angular 7 advanced Course (Ordina, May 2019)</h3>
-                        <p>I have made an Angular course for Ordina JTech. Participants receive a certificate at the end of
-                            the three-day course
+                        <p>I have made an ultimate Angular course for Ordina JTech and the Frontend community. What you will learn is how to Develop modern, complex, responsive and scalable web applications with Angular 7. 
+                          Participants receive a certificate at the end of the three-day course. 
                         </p>
                         <a href="https://github.com/petereijgermans11/workshop-angular7" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
