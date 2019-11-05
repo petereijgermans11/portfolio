@@ -22,7 +22,7 @@ export default class About extends Component {
                     <div className="desc">
                         <h3>Workshop Vue.js and ReactJS (Philadelphia USA, LibertyJS, October 2019)</h3>
                         <p>I give a talk and a workshop about building a Dashboard in Vue and React @LibertyJS
-                           We are going to make a dashboard with which we can calculate how much range the Tesla models has </p>
+                           We are going to make a dashboard with which we can calculate how much range the Tesla models has under different circumstances (speed, wheelsize ect.)</p>
                         <a href="https://github.com/petereijgermans11/workshop-reactjs-vuejs" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
@@ -44,7 +44,9 @@ export default class About extends Component {
                     <div className="desc">
                         <h3>Angular 7 advanced Course (Ordina, May 2019)</h3>
                         <p>I have made an ultimate Angular course for Ordina and the Frontend community. What you will learn is how to develop modern, complex, responsive and scalable web applications with Angular 7. 
-                          Participants receive a certificate at the end of the three-day course. 
+                        </p>
+                        <p>
+                        Participants receive a certificate at the end of the three-day course.   
                         </p>
                         <a href="https://github.com/petereijgermans11/workshop-angular7" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
