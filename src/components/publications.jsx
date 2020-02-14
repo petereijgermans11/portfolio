@@ -16,6 +16,17 @@ export default class About extends Component {
                 <div className="services color-3">
                     <img src='images/red-tesla.jpg' width="280px" class="lazy card-img-top" alt="Vue.js Tutorial: Build a Tesla Battery Range Calculator"/>
                     <div className="desc">
+                        <h3>PWA Tutorial: How to Build a Progressive Web App (PWA)</h3>
+                        <p>In this article, we discuss some basics behind building PWAs and then provide a comprehensive tutorial on creating your first one.
+                        </p>
+                        <a href="https://dzone.com/articles/how-to-build-a-progressive-web-app-pwa-with-javasc" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                    <img src='images/red-tesla.jpg' width="280px" class="lazy card-img-top" alt="Vue.js Tutorial: Build a Tesla Battery Range Calculator"/>
+                    <div className="desc">
                         <h3>Vue.js Tutorial: Build a Tesla Battery Range Calculator</h3>
                         <p>In this tutorial, we get started with Vue.js, an easy-to-understand JavaScript framework.
                         </p>
