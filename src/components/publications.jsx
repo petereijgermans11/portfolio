@@ -14,7 +14,7 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                    <img src='images/PWA.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: How to Build a Progressive Web App"/>
+                    <img src='images/Progressive-Web-App.jpg' width="280px" class="lazy card-img-top" alt="PWA Tutorial: How to Build a Progressive Web App"/>
                     <div className="desc">
                         <h3>PWA Tutorial: How to Build a Progressive Web App (Februari 2020)</h3>
                         <p>In this article, we discuss some basics behind building PWAs and then provide a comprehensive tutorial on creating your first one.
