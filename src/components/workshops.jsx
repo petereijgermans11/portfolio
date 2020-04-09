@@ -17,6 +17,31 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
+                    <img src='images/pwa_ducks.jpeg' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <div className="desc">
+                        <h3>Workshop PWA (Clockwork Ordina, March 2020)</h3>
+                        <p>I give a workshop about Progressive Web Apps PWA @clockwork. It was about making an app for making selfies and posting selfies with the BackgroundSync Api, and receiving and enabling Push Notifications with the PushApi. 
+                        </p>
+                        <a href="https://github.com/petereijgermans11/progressive-web-app/" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                    <img src='images/angular9.jpeg' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <div className="desc">
+                        <h3>Angular advanced Course (Ordina, March 2020)</h3>
+                        <p>I have made an ultimate Angular course for Ordina and the Frontend community. What you will learn is how to develop modern, complex, responsive and scalable web applications with Angular 9. 
+                        </p>
+                        <p>
+                        Participants receive a certificate at the end of the three-day course.   
+                        </p>
+                        <a href="https://github.com/petereijgermans11/workshop-angular7" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
                     <img src='images/tesla.png' width="280px" class="lazy card-img-top" alt="Tesla Battery Range Calculator with Vue.js or
                             ReactJS"/>
                     <div className="desc">
@@ -32,23 +57,9 @@ export default class About extends Component {
                     <img src='images/angularreactiveforms.png' width="280px" class="lazy card-img-top" alt="angularreactiveforms"/>
                     <div className="desc">
                         <h3>Angular Reactive Forms (Ordina, May 2019)</h3>
-                        <p>I gave a workshop about 'Reactive Forms in Angular'. It is part of an accelerator program of Ordina to boost your Frontend expertise to the Next Level!
+                        <p>I give a workshop about 'Reactive Forms in Angular'. It is part of an accelerator program of Ordina to boost your Frontend expertise to the Next Level!
                         </p>
                         <a href="https://github.com/petereijgermans11/accelerator-programma" target="_blank" class="btn btn-primary">Check It Out</a>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                    <img src='images/angular7.png' width="280px" class="lazy card-img-top" alt="angular7"/>
-                    <div className="desc">
-                        <h3>Angular 7 advanced Course (Ordina, May 2019)</h3>
-                        <p>I have made an ultimate Angular course for Ordina and the Frontend community. What you will learn is how to develop modern, complex, responsive and scalable web applications with Angular 7. 
-                        </p>
-                        <p>
-                        Participants receive a certificate at the end of the three-day course.   
-                        </p>
-                        <a href="https://github.com/petereijgermans11/workshop-angular7" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
             </div>
