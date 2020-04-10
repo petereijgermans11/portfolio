@@ -22,9 +22,6 @@ export default class About extends Component {
                         <h3>Angular advanced Course (Ordina, March 2020)</h3>
                         <p>I have made an ultimate Angular course for Ordina and the Frontend community. What you will learn is how to develop modern, complex, responsive and scalable web applications with Angular 9. 
                         </p>
-                        <p>
-                        Participants receive a certificate at the end of the three-day course.   
-                        </p>
                         <a href="https://github.com/petereijgermans11/workshop-angular7" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
