@@ -30,7 +30,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://twitter.com/eijgermanspeter" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.linkedin.com/in/peter-eijgermans-8255524/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/petereijgermans11" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://dzone.com/articles/building-mobile-apps-with-angular-and-nativescript" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://dzone.com/users/1490465/petereijgermans.html" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>

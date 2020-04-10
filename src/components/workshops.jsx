@@ -17,7 +17,7 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                    <img src='images/angular9.jpeg' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <img src='images/angular9.jpeg' width="280px" class="lazy card-img-top" alt="angular9"/>
                     <div className="desc">
                         <h3>Angular advanced Course (Ordina, March 2020)</h3>
                         <p>I have made an ultimate Angular course for Ordina and the Frontend community. What you will learn is how to develop modern, complex, responsive and scalable web applications with Angular 9. 
@@ -28,7 +28,7 @@ export default class About extends Component {
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                    <img src='images/pwa_ducks.jpeg' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <img src='images/pwa_ducks.jpeg' width="280px" class="lazy card-img-top" alt="pwa"/>
                     <div className="desc">
                         <h3>Workshop PWA (Clockwork Ordina, March 2020)</h3>
                         <p>I give a workshop about Progressive Web Apps PWA @clockwork. It was about making an app for making selfies and posting selfies with the BackgroundSync Api, and receiving and enabling Push Notifications with the PushApi. 
@@ -51,7 +51,7 @@ export default class About extends Component {
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <img src='images/graphql.jpg' width="280px" class="lazy card-img-top" alt="angular7"/>
+                    <img src='images/graphql.jpg' width="280px" class="lazy card-img-top" alt="graphql"/>
                     <div className="desc">
                         <h3>Graphql and Apollo (Ordina, April 2019)</h3>
                         <p>Ordina JTech is organizing another learning weekend on the beach of Renesse. I gave a workshop there about Graphql, Apollo and React
