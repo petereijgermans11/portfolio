@@ -51,23 +51,23 @@ export default class About extends Component {
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <img src='images/angularreactiveforms.png' width="280px" class="lazy card-img-top" alt="angularreactiveforms"/>
-                    <div className="desc">
-                        <h3>Angular Reactive Forms (Ordina, May 2019)</h3>
-                        <p>I give a workshop about 'Reactive Forms in Angular'. It is part of an accelerator program of Ordina to boost your Frontend expertise to the Next Level!
-                        </p>
-                        <a href="https://github.com/petereijgermans11/accelerator-programma" target="_blank" class="btn btn-primary">Check It Out</a>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
                     <img src='images/graphql.jpg' width="280px" class="lazy card-img-top" alt="angular7"/>
                     <div className="desc">
                         <h3>Graphql and Apollo (Ordina, April 2019)</h3>
                         <p>Ordina JTech is organizing another learning weekend on the beach of Renesse. I gave a workshop there about Graphql, Apollo and React
                         </p>
                         <a href="https://github.com/petereijgermans11/workshop-graphql" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <img src='images/angularreactiveforms.png' width="280px" class="lazy card-img-top" alt="angularreactiveforms"/>
+                    <div className="desc">
+                        <h3>Angular Reactive Forms (Ordina, May 2019)</h3>
+                        <p>I give a workshop about 'Reactive Forms in Angular'. It is part of an accelerator program of Ordina to boost your Frontend expertise to the Next Level!
+                        </p>
+                        <a href="https://github.com/petereijgermans11/accelerator-programma" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
                 </div>
             </div>
