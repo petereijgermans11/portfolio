@@ -15,6 +15,18 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/8IOn81cRMZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>Micro frontends: the What, the Why and the How (Ordina Online, May 2020)</h3>
+                        <p>In 1997 Peter Eijgermans was attacked by a rhinoceros in Nepal / Tibet. In this context, the rhinoceros represents a Monolith. Peter used this metaphor to start his talk. He focusses on Integration Approaches to build Micro Frontends and show some code examples.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=8IOn81cRMZI&feature=youtu.be" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
                     <img src='images/rhino_monolith.jpeg' width="280px" class="lazy card-img-top" alt="Micro-frontends: the What, the Why and the How"/>
                     <div className="desc">
                         <h3>Micro frontends: the What, the Why and the How (Ordina Groningen, Oct 2019)</h3>
