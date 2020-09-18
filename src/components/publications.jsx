@@ -14,7 +14,7 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                    <img src='images/duckface.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA"1/>
+                    <img src='images/duckface.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA"/>
                     <div className="desc">
                         <h3>PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA (September 2020)</h3>
                         <p>In this tutorial, I will discuss advanced PWA features that provide access to your hardware APIs. We are going to build an app for making selfies with the Media Capture API and posting selfies with the BackgroundSync Api.
