@@ -14,10 +14,21 @@ export default class About extends Component {
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
+                    <img src='images/duckface.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA"1/>
+                    <div className="desc">
+                        <h3>PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA (September 2020)</h3>
+                        <p>In this tutorial, I will discuss advanced PWA features that provide access to your hardware APIs. We are going to build an app for making selfies with the Media Capture API and posting selfies with the BackgroundSync Api.
+                        </p>
+                        <a href="https://dzone.com/articles/how-to-build-a-progressive-selfies-web-app" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
                     <img src='images/Progressive-Web-App.jpg' width="280px" class="lazy card-img-top" alt="PWA Tutorial: How to Build a Progressive Web App"/>
                     <div className="desc">
                         <h3>PWA Tutorial: How to Build a Progressive Web App (Februari 2020)</h3>
-                        <p>In this article, we discuss some basics behind building PWAs and then provide a comprehensive tutorial on creating your first one.
+                        <p>In this article/tutorial, we discuss some basics behind building PWAs and then provide a comprehensive tutorial on creating your first one.
                         </p>
                         <a href="https://dzone.com/articles/how-to-build-a-progressive-web-app-pwa-with-javasc" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
