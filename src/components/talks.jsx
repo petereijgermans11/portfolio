@@ -15,6 +15,18 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/sP7dtZm_Wx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>Build a Tesla Battery Range Calculator with Vue.js or React (SEPTEMBER 2020)</h3>
+                        <p>I give a talk about building a Dashboard in Vue and React @CityJS. We are going to make a dashboard with which we can calculate how much range the Tesla models has under different circumstances (speed, wheelsize ect.)
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=sP7dtZm_Wx0" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/8IOn81cRMZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">

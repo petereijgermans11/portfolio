@@ -17,6 +17,18 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
+                    <img src='images/javadayistanbul.jpeg' width="280px" class="lazy card-img-top" alt="Tesla Battery Range Calculator with Vue.js or
+                            ReactJS"/>
+                    <div className="desc">
+                        <h3>Workshop Vue.js and ReactJS (Instanbul, @JavaDayIstanbul, September 2020)</h3>
+                        <p>I give a talk and a workshop about building a Dashboard in Vue and React @JavaDayIstanbul
+                           We are going to make a dashboard with which we can calculate how much range the Tesla models has under different circumstances (speed, wheelsize ect.)</p>
+                        <a href="https://github.com/petereijgermans11/workshop-reactjs-vuejs" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
                     <img src='images/angular9.jpeg' width="280px" class="lazy card-img-top" alt="angular9"/>
                     <div className="desc">
                         <h3>Angular advanced Course (Ordina, March 2020)</h3>
@@ -30,7 +42,7 @@ export default class About extends Component {
                 <div className="services color-3">
                     <img src='images/pwa_ducks.jpeg' width="280px" class="lazy card-img-top" alt="pwa"/>
                     <div className="desc">
-                        <h3>Workshop PWA (Clockwork Ordina, March 2020)</h3>
+                        <h3>Workshop PWA (@Clockwork Ordina, March 2020)</h3>
                         <p>I give a workshop about Progressive Web Apps PWA @clockwork. It was about making an app for making selfies and posting selfies with the BackgroundSync Api, and receiving and enabling Push Notifications with the PushApi. 
                         </p>
                         <a href="https://github.com/petereijgermans11/progressive-web-app/" target="_blank" class="btn btn-primary">Check It Out</a>
