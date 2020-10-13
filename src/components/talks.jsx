@@ -15,7 +15,7 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                    <iframe width="275" height="150" src="hhttps://www.youtube.com/watch?v=Z7-SAmtMwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/Z7-SAmtMwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
                         <h3>Micro frontends: the What, the Why and the How (Oktober 2020)</h3>
