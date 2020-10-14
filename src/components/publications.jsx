@@ -16,7 +16,7 @@ export default class About extends Component {
                 <div className="services color-3">
                     <img src='images/react-hooks.png' width="280px" class="lazy card-img-top" alt="Hooks by Example: Convert a Tesla Battery Range Calculator to Functional Components with React Hooks"/>
                     <div className="desc">
-                        <h3>Hooks by Example: Convert a Tesla Battery Range Calculator to Functional Components with React Hooks (Oktober 2020)</h3>
+                        <h3>Hooks by Example: Convert a Tesla Battery Range Calculator to Functional Components with React Hooks (October 2020)</h3>
                         <p>In order to learn React hooks more thoroughly I converted an existing React-app from React Class Components to one with just React Functional Components.
                         </p>
                         <a href="https://dzone.com/articles/steps-to-convert-the-react-tesla-battery-range-calc-to-func-comp-with-hooks" target="_blank" class="btn btn-primary">Check It Out</a>

@@ -18,7 +18,7 @@ export default class About extends Component {
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/Z7-SAmtMwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
-                        <h3>Micro frontends: the What, the Why and the How (Oktober 2020)</h3>
+                        <h3>Micro frontends: the What, the Why and the How (October 2020)</h3>
                         <p>In this session Peter Eijgermans focuses on extending the concepts of microservices to the frontend world. This results in Micro Frontends. 
                         </p>
                         <a href="https://www.youtube.com/watch?v=Z7-SAmtMwZQ" target="_blank" class="btn btn-primary">Check It Out</a>
