@@ -43,7 +43,7 @@ export default class About extends Component {
                     <img src='images/pwa_ducks.jpeg' width="280px" class="lazy card-img-top" alt="pwa"/>
                     <div className="desc">
                         <h3>Workshop PWA (@Clockwork Ordina, March 2020)</h3>
-                        <p>I give a workshop about Progressive Web Apps PWA @clockwork. It was about making an app for making selfies and posting selfies with the BackgroundSync Api, and receiving and enabling Push Notifications with the PushApi. 
+                        <p>I give a workshop about Progressive Web Apps PWA @clockwork. It was about making an app for making selfies and posting selfies with the BackgroundSync Api, and receiving and enabling Push Notifications with the Push Api. 
                         </p>
                         <a href="https://github.com/petereijgermans11/progressive-web-app/" target="_blank" class="btn btn-primary">Check It Out</a>
                     </div>
