@@ -12,6 +12,18 @@ export default class About extends Component {
             </div>
             </div>
             <div className="row row-pt-md">
+
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                    <img src='images/happy.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA"/>
+                    <div className="desc">
+                        <h3>PWA Tutorial: How to Build a Progressive Web App (PWA) with Face Recognition and Speech Recognition (November 2020)</h3>
+                        <p>In this tutorial, I will discuss advanced PWA features that provide access to your hardware APIs. We are going to build an app with Face Recognition and Speech Recognition. This is now possible on the Web!
+                        </p>
+                        <a href="https://dzone.com/articles/tutorial-how-to-build-a-pwa-with-face-and-speechrecognition" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>  
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                     <img src='images/react-hooks.png' width="280px" class="lazy card-img-top" alt="Hooks by Example: Convert a Tesla Battery Range Calculator to Functional Components with React Hooks"/>
@@ -24,7 +36,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-2">
                     <img src='images/duckface.png' width="280px" class="lazy card-img-top" alt="PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA"/>
                     <div className="desc">
                         <h3>PWA Tutorial: Enable Background Sync, Media Capture, and Geolocation APIs in Your PWA (September 2020)</h3>

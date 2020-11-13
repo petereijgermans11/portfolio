@@ -15,6 +15,19 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/aITJrCBLUNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>Make your webapp Progressive with awesome Web APIs (November 2020)</h3>
+                        <p>In this talk, Peter will show some advanced PWA features that provide access to your hardware APIs. We are going to build an app for making selfies with the Media Capture API, Geolocation API and posting selfies with the BackgroundSync Api. And also we are enabling Face Recognition and Speech Recognition, Vitual Reality and AR in our App. This is now possible on the Web! 
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=aITJrCBLUNA" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/Z7-SAmtMwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
@@ -26,7 +39,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-3">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/sP7dtZm_Wx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
