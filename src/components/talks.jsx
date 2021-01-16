@@ -15,7 +15,7 @@ export default class About extends Component {
 
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                    <iframe width="275" height="150" src="hhttps://www.youtube.com/embed/JtNis5Nphro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+                    <iframe width="275" height="150" src="https://www.youtube.com/embed/JtNis5Nphro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
                     <div className="desc">
                         <h3>Build a Tesla Battery Range Calculator with Vue.js or React (December 2020)</h3>
