@@ -14,6 +14,19 @@ export default class About extends Component {
             <div className="row row-pt-md">
 
             <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                    <iframe width="275" height="150" src="hhttps://www.youtube.com/embed/JtNis5Nphro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <div className="desc">
+                        <h3>Build a Tesla Battery Range Calculator with Vue.js or React (December 2020)</h3>
+                        <p>I give a talk about building a Dashboard in Vue 3 and React (with hooks) @JSandFriendsConf. We are going to make a dashboard with which we can calculate how much range the Tesla models has under different circumstances (speed, wheelsize ect.)
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=JtNis5Nphro" target="_blank" class="btn btn-primary">Check It Out</a>
+                    </div>
+                </div>
+            </div>
+
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                     <iframe width="275" height="150" src="https://www.youtube.com/embed/aITJrCBLUNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
